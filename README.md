@@ -1,6 +1,6 @@
-﻿**Projekt SQL Engeto Akademie**
+# Projekt SQL Engeto Akademie
 
-\1. Časové proměnné
+# 1. Časové proměnné
 
 Na základě měsíců je ke každému řádku přiřazeno roční období: 
 
@@ -14,7 +14,7 @@ podzim – 3 .
 
 V případě, že se jedná o pracovní den je přiřazena řádku 1, v případě, že se jedná o víkend je zapsána nula.
 
-\2. Proměnné specifické pro daný stát
+# 2. Proměnné specifické pro daný stát
 
 Nejdříve je vybrána hustota zalidnění a spočítáno HDP na obyvatele za pomocí
 GDP (získáno v tabulce economies)
